@@ -31,6 +31,11 @@
 
 <h6 align="left">Live npm package stats with dynamic version and download badges.</h6>
 
+<img src="https://raw.githubusercontent.com/meharajM/meharajM/main/assets/npm-download-trends.svg" alt="npm download trends line chart" />
+
+<br />
+<sub>Line chart updates from your repo automation. Very new packages can take time before npm exposes range history for charting.</sub>
+
 <div align="left">
   <a href="https://www.npmjs.com/package/@mhrj/whatsapp-mcp" target="_blank">
     <strong>@mhrj/whatsapp-mcp</strong>
@@ -125,6 +130,12 @@
 
 ###
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=meharajM&theme=github_dark" alt="profile details graph" />
+</div>
+
+###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/meharajM/meharajM/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/meharajM/meharajM/output/snake.svg" />
@@ -134,8 +145,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meharajM&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=meharajM&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=meharajM&theme=github_dark" height="150" alt="stats graph"  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=meharajM&theme=github_dark" height="150" alt="repositories per language graph"  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=meharajM&theme=github_dark" height="150" alt="most commit language graph"  />
 </div>
 
 ###

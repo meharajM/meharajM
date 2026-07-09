@@ -1,0 +1,40 @@
+name: Update npm download chart
+
+on:
+  schedule:
+    - cron: "15 0 * * *"
+  workflow_dispatch:
+  push:
+    paths:
+      - "scripts/generate-npm-download-trends.mjs"
+      - ".github/workflows/update-npm-download-chart.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  update-chart:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Generate npm download chart
+        run: node scripts/generate-npm-download-trends.mjs
+
+      - name: Commit updated chart
+        run: |
+          if git diff --quiet -- assets/npm-download-trends.svg; then
+            echo "No chart changes to commit"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/npm-download-trends.svg
+          git commit -m "chore: update npm download chart"
+          git push
