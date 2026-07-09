@@ -25,6 +25,70 @@
 
 ###
 
+<h3 align="left">📦 Published Packages</h3>
+
+###
+
+<h6 align="left">Live npm package stats with dynamic version and download badges.</h6>
+
+<div align="left">
+  <a href="https://www.npmjs.com/package/@mhrj/whatsapp-mcp" target="_blank">
+    <strong>@mhrj/whatsapp-mcp</strong>
+  </a>
+  <br />
+  WhatsApp MCP server for human-in-the-loop AI agents, approvals, and notifications.
+  <br />
+  <img src="https://img.shields.io/npm/v/%40mhrj%2Fwhatsapp-mcp?style=flat-square&label=version" alt="whatsapp-mcp version" />
+  <img src="https://img.shields.io/npm/dm/%40mhrj%2Fwhatsapp-mcp?style=flat-square&label=monthly%20downloads" alt="whatsapp-mcp monthly downloads" />
+  <img src="https://img.shields.io/npm/dt/%40mhrj%2Fwhatsapp-mcp?style=flat-square&label=total%20downloads" alt="whatsapp-mcp total downloads" />
+  <br /><br />
+
+  <a href="https://www.npmjs.com/package/@mhrj/mcp-agent-loop" target="_blank">
+    <strong>@mhrj/mcp-agent-loop</strong>
+  </a>
+  <br />
+  Agentic memory manager package designed to work with the related skill workflow.
+  <br />
+  <img src="https://img.shields.io/npm/v/%40mhrj%2Fmcp-agent-loop?style=flat-square&label=version" alt="mcp-agent-loop version" />
+  <img src="https://img.shields.io/npm/dm/%40mhrj%2Fmcp-agent-loop?style=flat-square&label=monthly%20downloads" alt="mcp-agent-loop monthly downloads" />
+  <img src="https://img.shields.io/npm/dt/%40mhrj%2Fmcp-agent-loop?style=flat-square&label=total%20downloads" alt="mcp-agent-loop total downloads" />
+  <br /><br />
+
+  <a href="https://www.npmjs.com/package/@mhrj/team-project-memory-skill" target="_blank">
+    <strong>@mhrj/team-project-memory-skill</strong>
+  </a>
+  <br />
+  Shared team project memory skill for developer teams, AI coding agents, and multi-agent swarms.
+  <br />
+  <img src="https://img.shields.io/npm/v/%40mhrj%2Fteam-project-memory-skill?style=flat-square&label=version" alt="team-project-memory-skill version" />
+  <img src="https://img.shields.io/npm/dm/%40mhrj%2Fteam-project-memory-skill?style=flat-square&label=monthly%20downloads" alt="team-project-memory-skill monthly downloads" />
+  <img src="https://img.shields.io/npm/dt/%40mhrj%2Fteam-project-memory-skill?style=flat-square&label=total%20downloads" alt="team-project-memory-skill total downloads" />
+  <br /><br />
+
+  <a href="https://www.npmjs.com/package/@mhrj/contextengine-mcp" target="_blank">
+    <strong>@mhrj/contextengine-mcp</strong>
+  </a>
+  <br />
+  Optional MCP server for project memory retrieval and publishing workflows.
+  <br />
+  <img src="https://img.shields.io/npm/v/%40mhrj%2Fcontextengine-mcp?style=flat-square&label=version" alt="contextengine-mcp version" />
+  <img src="https://img.shields.io/npm/dm/%40mhrj%2Fcontextengine-mcp?style=flat-square&label=monthly%20downloads" alt="contextengine-mcp monthly downloads" />
+  <img src="https://img.shields.io/npm/dt/%40mhrj%2Fcontextengine-mcp?style=flat-square&label=total%20downloads" alt="contextengine-mcp total downloads" />
+  <br /><br />
+
+  <a href="https://www.npmjs.com/package/@mhrj/mpp-components" target="_blank">
+    <strong>@mhrj/mpp-components</strong>
+  </a>
+  <br />
+  Component package published under the <code>@mhrj</code> scope.
+  <br />
+  <img src="https://img.shields.io/npm/v/%40mhrj%2Fmpp-components?style=flat-square&label=version" alt="mpp-components version" />
+  <img src="https://img.shields.io/npm/dm/%40mhrj%2Fmpp-components?style=flat-square&label=monthly%20downloads" alt="mpp-components monthly downloads" />
+  <img src="https://img.shields.io/npm/dt/%40mhrj%2Fmpp-components?style=flat-square&label=total%20downloads" alt="mpp-components total downloads" />
+</div>
+
+###
+
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
